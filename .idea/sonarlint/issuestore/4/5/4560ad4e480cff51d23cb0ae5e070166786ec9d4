@@ -1,0 +1,19 @@
+
+c	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øïçÄ
+R
+java:S3252K"<Use static access with "org.openqa.selenium.By" for "xpath".(ÛÜş
+h	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ô¿íıÿÿÿÿ
+c	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÉÖ×
+i	java:S100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·÷’íÿÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ ışÿÿÿÿ
+d	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èí©‡
+h
+java:S1128"MRemove this unused import 'io.appium.java_client.pagefactory.iOSXCUITFindBy'.(¦ßÆƒÿÿÿÿÿ
+D
+java:S1128".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§
+Y
+java:S1128	"CRemove this unused import 'javax.lang.model.element.ModuleElement'.(öÕ¼ì
+f	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ƒ³
+f	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¹Ñœ
+k	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½›Úõøÿÿÿÿ

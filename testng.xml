@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ToDo Mobile Application">
+
+<listeners>
+    <listener class-name="listeners.TestListeners"></listener>
+</listeners>
+    <test thread-count="5" name="Android">
+        <parameter name="deviceName" value="6c8d920d"></parameter>
+        <parameter name="platformName" value="Android"></parameter>
+        <parameter name="platformversion" value="11.0"></parameter>
+        <classes>
+            <class name="testcases.LoginScreenTests"></class>
+        </classes>
+    </test>
+
+
+
+</suite>
